@@ -1,0 +1,90 @@
+{
+    "paper25.md": {
+        "title": "Chemical polishing of samples obtained by selective laser melting from titanium alloy Ti6Al4V",
+        "authors": [
+            "Andrey V. Balyakin",
+            "Aleksei N. Shvetcov",
+            "Evgeny I. Zhuchenko"
+        ],
+        "journal": "Not found",
+        "doi": "Not found"
+    },
+    "paper5.md": {
+        "title": "Critical evaluation of the pulsed selective laser melting process when fabricating Ti64 parts using a range of particle size distributions",
+        "authors": [
+            "Abdullah Yahia Alfaify",
+            "James Hughes",
+            "Keith Ridgway"
+        ],
+        "journal": "Not found",
+        "doi": "Not found"
+    },
+    "paper4.md": {
+        "title": "Residual stress evaluation in selective-laser-melting additively manufactured titanium (Ti-6Al-4V) and inconel 718 using the contour method and numerical simulation",
+        "authors": [
+            "Bilal Ahmad",
+            "Sjoerd O. van der Veen",
+            "Michael E. Fitzpatrick",
+            "Hua Guo"
+        ],
+        "journal": "Additive Manufacturing",
+        "doi": "Not found"
+    },
+    "paper7.md": {
+        "title": "Investigating the Residual Stress Distribution in Selective Laser Melting Produced Ti-6Al-4V using Neutron Diffraction",
+        "authors": [
+            "L.S. Anderson",
+            "A.M. Venter",
+            "B. Vrancken",
+            "D. Marais",
+            "J. van Humbeeck",
+            "T.H. Becker"
+        ],
+        "journal": "Not found",
+        "doi": "Not found"
+    },
+    "paper2.md": {
+        "title": "Multi-objective accelerated process optimization of mechanical properties in laser-based additive manufacturing: Case study on Selective Laser Melting (SLM) Ti-6Al-4V",
+        "authors": [
+            "Amir M. Aboutaleb",
+            "Mohammad J. Mahtabi",
+            "Mark A. Tschopp",
+            "Linkan Bian"
+        ],
+        "journal": "Journal of Manufacturing Processes",
+        "doi": "Not found"
+    },
+    "paper22.md": {
+        "title": "AN INVESTIGATION OF HIGH TEMPERATURE TENSILE PROPERTIES OF SELECTIVE LASER MELTED TI-6AL-4V",
+        "authors": [
+            "BAITIMEROV R.M. BAITIMEROV",
+            "LYKOV P.A. LYKOV",
+            "RADIONOVA L.V. RADIONOVA",
+            "AKHMEDIANOV A.M. AKHMEDIANOV",
+            "SAMOILOV S.P. SAMOILOV"
+        ],
+        "journal": "Not found",
+        "doi": "Not found"
+    },
+    "paper26.md": {
+        "title": "Development of a processing route for Ti-6Al-4V forgings based on preforms made by selective laser melting",
+        "authors": [
+            "Markus Bambach",
+            "Irina Sizova",
+            "Aliakbar Emdadi"
+        ],
+        "journal": "Journal of Manufacturing Processes",
+        "doi": "Not found"
+    },
+    "paper23.md": {
+        "title": "Parameter optimization for selective laser melting of TiAl6V4 alloy by CO2 laser",
+        "authors": [
+            "R M Baitimerov",
+            "P A Lykov",
+            "L V Radionova",
+            "E V Safonov"
+        ],
+        "journal": "IOP Conf. Ser.: Mater. Sci. Eng.",
+        "doi": "10.1088/1757-899X/248/1/012012"
+    }
+}
